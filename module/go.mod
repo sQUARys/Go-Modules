@@ -1,4 +1,4 @@
-module github.com/sQUARys/wb/module/task
+module github.com/sQUARys/Go-Modules/module/task
 
 go 1.18
 
